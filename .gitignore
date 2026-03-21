@@ -1,10 +1,8 @@
-.vscode/**
 .obsidian
 .obsidian/**
 .DS_Store
 
 **/.envrc
-**/.env
 
 **/.terraform
 **/.terraform.lock.hcl
@@ -21,3 +19,5 @@ packer_cache/
 *.ova
 
 **/helm-credentials.yaml
+config.bat
+node_modules
